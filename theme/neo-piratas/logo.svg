@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="350"
+   height="110"
+   id="svg2880"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="logo.svg"
+   inkscape:export-filename="/home/eduarda/git/neo-piratas/logo.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
+   enable-background="new">
+  <defs
+     id="defs2882">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective2888" />
+    <inkscape:perspective
+       id="perspective2859"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4934">
+      <feBlend
+         inkscape:collect="always"
+         mode="lighten"
+         in2="BackgroundImage"
+         id="feBlend4936" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="134.42432"
+     inkscape:cy="103.35482"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1364"
+     inkscape:window-height="693"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata2885">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Social"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-119.19595,-274.32438)"
+     style="filter:url(#filter4934)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.8670845px;line-height:125%;font-family:'Facebook Letter Faces';-inkscape-font-specification:'Facebook Letter Faces, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#522e91;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="233.14383"
+       y="340.04062"
+       id="text5387"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5389"
+         x="233.14383"
+         y="340.04062">social pirata</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Logo"
+     style="display:inline">
+    <path
+       transform="translate(-119.19595,-274.32438)"
+       sodipodi:nodetypes="ccsc"
+       inkscape:connector-curvature="0"
+       id="path4639-7"
+       d="m 203.26922,356.52735 c -3.73549,21.79036 -38.39256,21.90151 -38.39256,21.90151 0,0 21.20339,-6.56966 19.7507,-22.34174 -1.32705,-14.408 18.64186,0.44023 18.64186,0.44023 z"
+       style="opacity:1;fill:#522e91;fill-opacity:1;stroke:none;"
+       inkscape:export-xdpi="299.59372"
+       inkscape:export-ydpi="299.59372" />
+    <rect
+       transform="translate(-119.19595,-274.32438)"
+       style="opacity:1;fill:#522e91;fill-opacity:1;stroke:none"
+       id="rect3328-0"
+       width="89.521233"
+       height="77.451447"
+       x="133.39616"
+       y="280.21875"
+       ry="12.913471"
+       inkscape:export-xdpi="299.59372"
+       inkscape:export-ydpi="299.59372" />
+    <g
+       transform="translate(-119.1917,-274.32496)"
+       id="g5180"
+       style="opacity:1"
+       inkscape:export-xdpi="299.59372"
+       inkscape:export-ydpi="299.59372">
+      <path
+         sodipodi:nodetypes="zsscsssz"
+         inkscape:connector-curvature="0"
+         id="path4516-2"
+         d="m 190.48664,290.71733 c 1.37154,-1.22326 7.26383,5.94313 7.41057,8.73126 0.21596,4.10316 0.32474,11.56015 -11.88626,11.44603 -7.8508,-0.0734 -8.21766,-5.42952 -8.21766,-5.42952 0,0 -0.22012,-4.62244 4.03545,-4.62244 4.25557,0 2.85833,3.00825 6.23663,3.00825 5.06267,0 4.27343,-2.05348 4.40231,-4.69581 0.2935,-6.0165 -3.35257,-7.21451 -1.98104,-8.43777 z"
+         style="fill:#ffffff;fill-opacity:1;stroke:none" />
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         d="m 165.53905,290.71733 c -1.37153,-1.22326 -7.41057,4.62243 -7.41057,8.73126 0,4.10883 -0.32474,11.56015 11.88626,11.44603 7.8508,-0.0734 8.21766,-5.42952 8.21766,-5.42952 0,0 0.22012,-4.62244 -4.03545,-4.62244 -4.25558,0 -2.85832,3.00825 -6.23662,3.00825 -5.06267,0 -4.27343,-2.05348 -4.40232,-4.69581 -0.29349,-6.0165 3.35257,-7.21451 1.98104,-8.43777 z"
+         id="path4611-5"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="zsscsssz" />
+    </g>
+    <circle
+       transform="translate(-119.19595,-274.32438)"
+       r="22"
+       cy="325.77588"
+       cx="178.04916"
+       id="outside_1_"
+       style="fill:#ffffff"
+       inkscape:export-xdpi="299.59372"
+       inkscape:export-ydpi="299.59372" />
+    <circle
+       transform="translate(-119.19595,-274.32438)"
+       id="circle5319"
+       r="20.06403"
+       cy="325.77563"
+       cx="178.04953"
+       inkscape:export-xdpi="299.59372"
+       inkscape:export-ydpi="299.59372" />
+    <circle
+       transform="translate(-119.19595,-274.32438)"
+       id="circle5321"
+       r="17.952011"
+       cy="325.84583"
+       cx="178.04953"
+       style="fill:#ffffff"
+       inkscape:export-xdpi="299.59372"
+       inkscape:export-ydpi="299.59372" />
+    <path
+       transform="translate(-119.19595,-274.32438)"
+       id="path5323"
+       d="m 173.51196,329.70345 c 1.72835,-1.18881 4.69552,-2.62501 5.26802,-5.37126 1.15251,-5.5229 -2.31602,-7.81437 -5.26802,-8.53414 l 0,13.9054 z m -1.63936,1.77663 0,-15.93603 c -0.69948,-0.0449 -1.28297,0 -1.65007,0.11006 -0.10456,-0.23076 0.539,-0.5868 1.65007,-0.92807 l 0,-3.06801 1.63936,0 0,2.65133 c 5.90399,-1.23844 17.67652,-1.30322 17.73999,9.0304 0.0407,7.2952 -12.72604,6.18165 -16.42658,8.54933 -4.02655,2.56839 -2.21948,8.00415 -2.21948,8.00415 0,0 -2.43584,-5.09108 -0.73329,-8.41316 z"
+       inkscape:connector-curvature="0"
+       style="fill:#010101"
+       inkscape:export-xdpi="299.59372"
+       inkscape:export-ydpi="299.59372" />
+    <line
+       transform="translate(-119.19595,-274.32438)"
+       id="line5325"
+       y2="322.25626"
+       x2="172.68462"
+       y1="322.25626"
+       x1="171.04521"
+       style="fill:none"
+       inkscape:export-xdpi="299.59372"
+       inkscape:export-ydpi="299.59372" />
+  </g>
+</svg>
