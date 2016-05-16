@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="logo.svg"
-   inkscape:export-filename="/home/eduarda/git/neo-piratas/logo.png"
+   inkscape:export-filename="/home/user/git/piratas/neo-piratas/logo.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
    enable-background="new">
@@ -53,17 +53,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="134.42432"
-     inkscape:cy="103.35482"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="149.6031"
+     inkscape:cy="20.898776"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g3404"
      showgrid="false"
-     inkscape:window-width="1364"
-     inkscape:window-height="693"
+     inkscape:window-width="1920"
+     inkscape:window-height="1024"
      inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1" />
+     inkscape:window-y="21"
+     inkscape:window-maximized="0" />
   <metadata
      id="metadata2885">
     <rdf:RDF>
@@ -77,22 +77,92 @@
     </rdf:RDF>
   </metadata>
   <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Fundo">
+    <rect
+       style="display:inline;opacity:1;fill:#522e91;fill-opacity:1;stroke:none"
+       id="rect3328-0-7"
+       width="220.98199"
+       height="98.209999"
+       x="114.824"
+       y="5.894001"
+       ry="16.374542"
+       inkscape:export-xdpi="299.59372"
+       inkscape:export-ydpi="299.59372" />
+  </g>
+  <g
      inkscape:label="Social"
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-119.19595,-274.32438)"
-     style="filter:url(#filter4934)">
+     style="display:none;filter:url(#filter4934)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.8670845px;line-height:125%;font-family:'Facebook Letter Faces';-inkscape-font-specification:'Facebook Letter Faces, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#522e91;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="233.14383"
-       y="340.04062"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.8670845px;line-height:100%;font-family:'Facebook Letter Faces';-inkscape-font-specification:'Facebook Letter Faces, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="286.91953"
+       y="320.26379"
        id="text5387"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="100%"
+       transform="scale(1.0000032,0.9999968)"><tspan
          sodipodi:role="line"
          id="tspan5389"
-         x="233.14383"
-         y="340.04062">social pirata</tspan></text>
+         x="286.91953"
+         y="320.26379"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:100%;font-family:'Facebook Letter Faces';-inkscape-font-specification:'Facebook Letter Faces, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">social</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="370.19592"
+       y="312.07437"
+       id="text3382"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3384"
+         x="370.19592"
+         y="312.07437"></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.8670845px;line-height:100%;font-family:'Facebook Letter Faces';-inkscape-font-specification:'Facebook Letter Faces, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter4934)"
+       x="285.06393"
+       y="363.13379"
+       id="text5387-0"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan5389-5"
+         x="285.06393"
+         y="363.13379"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:100%;font-family:'Facebook Letter Faces';-inkscape-font-specification:'Facebook Letter Faces, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">pirata</tspan></text>
+  </g>
+  <g
+     style="filter:url(#filter4934)"
+     transform="translate(-119.19595,-274.32438)"
+     id="g3404"
+     inkscape:groupmode="layer"
+     inkscape:label="Social copy">
+    <text
+       sodipodi:linespacing="125%"
+       id="text3410"
+       y="312.07437"
+       x="370.19592"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="312.07437"
+         x="370.19592"
+         id="tspan3412"
+         sodipodi:role="line"></tspan></text>
+    <text
+       sodipodi:linespacing="100%"
+       id="text3414"
+       y="339.09216"
+       x="246.73994"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.8670845px;line-height:100%;font-family:'Facebook Letter Faces';-inkscape-font-specification:'Facebook Letter Faces, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter4934)"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;line-height:100%;font-family:'Facebook Letter Faces';-inkscape-font-specification:'Facebook Letter Faces, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+         y="339.09216"
+         x="246.73994"
+         id="tspan3416"
+         sodipodi:role="line">social pirata</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
